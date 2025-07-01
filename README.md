@@ -103,5 +103,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Author
 
-Made with ❤️ by [Your Name](https://www.linkedin.com/in/your-profile)  
+Made with ❤️ 
 Part of my **30-Day GenAI Real-World Project Challenge**.
